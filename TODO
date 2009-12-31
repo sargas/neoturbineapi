@@ -1,0 +1,5 @@
+overall:
+	* Main page
+
+cal:
+	* Get birthdays from LDAP
